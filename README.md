@@ -6,11 +6,11 @@ Created a portfolio of work that showcases my skills and talents to employers.
 
 ## Repository
 
-Download repository from https://github.com/machavarri/Portfolio-
+https://github.com/machavarri/Portfolio-
 
-## Live page
+## Live site
 
-Site can be viewed at https://machavarri.github.io/Portfolio-/
+https://machavarri.github.io/Portfolio-/
 
 ![Site Screenshot](https://github.com/machavarri/Portfolio-/blob/main/assets/images/Site%20screenshot.png?raw=true)
 
