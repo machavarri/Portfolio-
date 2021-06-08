@@ -2,7 +2,7 @@
 
 ## Description
 
-Created a portfolio of work that showcases my skills and talents to employers.
+Created website portfolio to present our work in an organized way to show potential employers.
 
 ## Repository
 
